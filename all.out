@@ -1,0 +1,37 @@
+###############################################
+Running tests/_home_cml_CheckMyLab_cml_project_test_cases_input_2017_10_20_testfile2.bin:
+
+The live registers: $t0  $t8  $t9  
+The live registers: $t0  $t1  $t2  $t4  $t5  $s1  $s3  $s5  
+The live registers: $t0  $t1  $t2  $t4  $t5  $s1  $s3  $s5  
+The live registers: $t6  $s5  
+The live registers: $a0  $a1  $t4  $t7  $s0  $s1  $s2  $s5  $s6  
+The live registers: $a3  $t0  $t1  $t2  $t3  $t5  $t6  $t7  $s3  
+The live registers: $a3  $t0  
+
+###############################################
+Running tests/_home_cml_CheckMyLab_cml_project_test_cases_input_2017_10_28_test5.bin:
+
+The live registers: $s2  $s3  
+The live registers: $t2  $t3  
+The live registers: $a0  $t0  $t2  $t5  $t6  $s1  $s2  $s3  $s5  $s6  
+
+###############################################
+Running tests/failed.bin:
+
+The live registers: $s2  $s3  
+The live registers: $t2  $t3  
+The live registers: $a0  $t0  $t2  $t5  $t6  $s1  $s2  $s3  $s5  $s6  
+
+###############################################
+Running tests/test.bin:
+
+The live registers: $t0  $t8  $t9  
+
+###############################################
+Running tests/test1.bin:
+
+The live registers: $t0  $t3  $t8  $t9  
+The live registers: $t0  $t3  $t8  $t9  
+
+###############################################
